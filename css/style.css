@@ -1,0 +1,203 @@
+[class^="ico-"], [class*=" ico-"]{
+  font: normal 1em/1 Arial, sans-serif;
+  float: right;
+}
+
+
+.ico-times:before{ content: "\2716"; }
+
+h2{
+	margin-top: 9px;
+    margin-bottom: 2px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+
+h3{
+	margin-top: 9px;/*CSS margins are used to create space around the element. */
+    margin-bottom: 2px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+
+.progress-bar1{
+	
+	height: 0.5rem;
+    color: #fff;
+    background-color: #0275d8;
+
+}
+
+.progress-bar2{
+	
+	height: 0.5rem;
+    color: #fff;
+    background-color: #28B8A2;
+	box-shadow: 0 0 2px 1px #28B8A2;
+}
+
+
+a.buy{
+  color: #2da1c1;
+  font-size: 15px;
+  text-decoration: none;
+ 
+  float: right;
+
+}
+a.buy:hover
+{
+color: #f90;
+text-decoration: underline;
+float: right;                 
+}
+
+p
+{
+	 font-family: 'arial';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: black;
+   margin-top: 10px;
+       margin: 10 0 10px; /*top margin is 10px ight and left margins are 0px ,bottom margin is 10px*/
+
+}
+.box {
+    background: #fff;
+    padding: 10px 10px;  /*CSS paddings are used to create space around the element, inside any defined and border.top and bottom = 40px;
+left and right = 10px;*/
+    border: 1px solid #fafafa;
+    min-height: 30px;
+    box-shadow: 0 0 2px 1px #28B8A2;/*first- top-left corner, 2nd top-right corner, 3rd bottom-right corner, 4th value bottom-left corne */
+}
+
+.row1{
+    background: #fff;
+    padding: 10px 10px;
+    border: 1px solid #fafafa;
+    min-height: 30px;
+    box-shadow: 0 0 5px 1px #ccc;
+}
+. row1 p{
+	 font-family: 'Open Sans', 'Nunito';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #686868;
+    margin-top: 20px 
+
+	
+}
+[class^="ico-"], [class*=" ico-"]{
+  font: normal 1em/1 Arial, sans-serif;
+  float: right;
+}
+
+
+.ico-times:before{ 
+content: "\2716";
+ }
+
+. box p{
+	 font-family: 'Open Sans', 'Nunito';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #686868;
+    margin-top: 20px
+	
+}
+.header p {
+    font-family: 'arial';
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 24px;
+    color: black;
+    margin-top: 30px
+}
+.header1 p {
+    font-family: 'arial';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 24px;
+    color: black;
+    margin-top: 30px
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.button a {
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #28B8A2;
+    padding: 10px 0;
+    width: 50%;
+    font-family: 'Nunito';
+	background-color:#28B8A2;
+	  box-shadow: 0 0 10px 1px #ccc;
+}
+
+.button a:hover {
+    background-color: #fae596;
+    color: #fff;
+    border: 0
+}
+
+.newbutton a {
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+    color: #28B8A2;
+    font-weight: 900;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #28B8A2;
+    padding: 10px 0;
+    width: 50%;
+    font-family: 'Nunito';
+	background-color:white;
+	 box-shadow: 0 0 10px 1px #ccc
+}
+
+.newbutton a:hover {
+    background-color: #fae596;
+    color: #fff;
+    border: 0
+}
+.newbutton1 a {
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+    color: #28B8A2;
+    font-weight: 900;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px 0;
+    width: 50%;
+    font-family: 'Nunito';
+	background-color:white;
+	 box-shadow: 0 0 10px 1px #ccc
+}
+
+.newbutton1 a:hover {
+    background-color: #fae596;
+    color: #fff;
+    border: 0
+}
